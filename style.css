@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+main li:hover {
+    font-size: 20px;
+    transition: 0.2s ease-in-out;
+}
+
+header:hover {
+    background-color: blue;
+    font-size: 80px;
+    transition: 1s ease-in-out;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    font-size: 50px;
+    padding: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+main p:hover {
+    font-size: 20px;
+    transition: 0.2s ease-in-out;
+}
+
+main a:hover{
+    color: black;
+    font-size: 30px;
+    transition: 0.2s ease-in-out;
+}
+
+footer {
+    background-color: gray;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+footer img:hover {
+    width: 200px;
+    height: 200px;
+    transition: ease-in-out 0.3s;
+}
